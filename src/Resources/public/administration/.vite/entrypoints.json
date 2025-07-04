@@ -1,0 +1,25 @@
+{
+  "base": "/bundles/sschreieradministrationdashboard/administration/",
+  "entryPoints": {
+    "sschreier-administration-dashboard": {
+      "css": [],
+      "dynamic": [
+        "/bundles/sschreieradministrationdashboard/administration/assets/index-BGJ4JZhv.js"
+      ],
+      "js": [
+        "/bundles/sschreieradministrationdashboard/administration/assets/sschreier-administration-dashboard-gG51j00r.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}

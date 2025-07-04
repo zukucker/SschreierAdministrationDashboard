@@ -3,12 +3,11 @@
 The _administration dashboard can be customized_ via the extension. For this purpose, it offers under "_Settings_" -> "_System_"> "_Users & permissions_" -> "_Roles_" in the area "_Additional permissions_" a new area "_Dashboard_" in which you can _hide_ the following areas of the dashboard for the selected role: 
 - the _greeting_
 - the _checklist_ area
-- the _feedback_ area
-- the _today's statistics_
-- the _statistics of the orders_
-- the _statistics of the turnover_.
+- the _feedback_ area.
 
-For the _statistics_, the checkbox "_View_" under "_Orders_" and "_Orders_" must be activated.
+The areas _today's statistics_, _statistics of the orders_ and _statistics of the turnover_ cannot be hidden individually, because Shopware plans to remove this areas as part of an update and probably replace it with Shopware Analytics. See: https://github.com/shopware/shopware/blob/v6.7.0.0/src/Administration/Resources/app/administration/src/module/sw-dashboard/component/sw-dashboard-statistics/sw-dashboard-statistics.html.twig#L1 .
+
+To hide the _statistics_, the checkbox "_View_" under "_Orders_" and "_Orders_" must be deactivated.
 
 The _Administrator_ account always see all areas on the dashboard, because he has no own role.
 
@@ -75,10 +74,6 @@ bin/console plugin:install --activate SschreierAdministrationDashboard
 
 ![administration dashboard without the areas for the greeting, the checklist and the feedback](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image2.jpg)
 
-### administration dashboard without the areas for the _checklist_, the _feedback_, the _today's statistics_, the _statistics of the orders_ and the _statistics of the turnover_
-
-![administration dashboard without the areas for the checklist, the feedback, the today's statistics, the statistics of the orders and the statistics of the turnover](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image3.jpg)
-
 ### new area "_Dashboard_" under "_Settings_" -> "_System_"> "_Users & permissions_" -> "_Roles_" in the area "_Additional permissions_" in which you can _hide_ the areas of the dashboard for the selected role
 
-![new area Dashboard in which you can hide the areas of the dashboard for the selected role](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image4.jpg)
+![new area Dashboard in which you can hide the areas of the dashboard for the selected role](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image5.jpg)

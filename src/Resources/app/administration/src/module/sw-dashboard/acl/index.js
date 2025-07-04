@@ -15,18 +15,6 @@ Shopware.Service('privileges')
             feedback: {
                 privileges: ['dashboard:feedback'],
                 dependencies: []
-            },
-            stats_today: {
-                privileges: ['dashboard:stats:today'],
-                dependencies: []
-            },
-            statistics_count: {
-                privileges: ['dashboard:statistics:count'],
-                dependencies: []
-            },
-            statistics_sum: {
-                privileges: ['dashboard:statistics:sum'],
-                dependencies: []
             }
         }
     });

@@ -5,10 +5,7 @@
                 "label": "Dashboard",
                 "intro": "Hide greeting",
                 "welcome": "Hide checklist area",
-                "feedback": "Hide feedback area",
-                "stats_today": "Hide today's statistics",
-                "statistics_count": "Hide Statistics Orders",
-                "statistics_sum": "Hide Statistics Turnover"
+                "feedback": "Hide feedback area"
             }
         }
     }
