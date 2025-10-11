@@ -1,7 +1,7 @@
 {
     "name": "sschreier/administration-dashboard",
     "description": "customizing the administration dashboard",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "type": "shopware-platform-plugin",
     "license": "GPL-3.0-or-later",
     "authors": [
@@ -26,12 +26,12 @@
             "en-GB": "The administration dashboard can be customized via the extension. For this purpose, it offers under \"Settings\" -> \"System\"> \"Users & permissions\" -> \"Roles\" in the area \"Additional permissions\" a new area \"Dashboard\" in which you can hide the following areas of the dashboard for the selected role: the greeting, the banner, the checklist area and the feedback area. The \"Administrator\" account always see all areas of the dashboard, because he has no own role."
         },
         "manufacturerLink": {
-            "de-DE": "https://www.sebastianschreier.de",
-            "en-GB": "https://www.sebastianschreier.de"
+            "de-DE": "https://www.web-solutions-dresden.de",
+            "en-GB": "https://www.web-solutions-dresden.de"
         },
         "supportLink": {
-            "de-DE": "https://www.sebastianschreier.de",
-            "en-GB": "https://www.sebastianschreier.de"
+            "de-DE": "https://www.web-solutions-dresden.de",
+            "en-GB": "https://www.web-solutions-dresden.de"
         }
     },
     "autoload": {

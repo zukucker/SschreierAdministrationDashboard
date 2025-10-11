@@ -68,12 +68,12 @@ bin/console plugin:install --activate SschreierAdministrationDashboard
 
 ### administration dashboard without the areas for the _checklist_ and the _feedback_
 
-![administration dashboard without the areas for the checklist and the feedback](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image1.jpg)
+![administration dashboard without the areas for the checklist and the feedback](https://www.web-solutions-dresden.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image1.jpg)
 
 ### administration dashboard without the areas for the _greeting_, the _checklist_ and the _feedback_
 
-![administration dashboard without the areas for the greeting, the checklist and the feedback](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image2.jpg)
+![administration dashboard without the areas for the greeting, the checklist and the feedback](https://www.web-solutions-dresden.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image2.jpg)
 
 ### new area "_Dashboard_" under "_Settings_" -> "_System_"> "_Users & permissions_" -> "_Roles_" in the area "_Additional permissions_" in which you can _hide_ the areas of the dashboard for the selected role
 
-![new area Dashboard in which you can hide the areas of the dashboard for the selected role](https://www.sebastianschreier.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image5.jpg)
+![new area Dashboard in which you can hide the areas of the dashboard for the selected role](https://www.web-solutions-dresden.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image5.jpg)
