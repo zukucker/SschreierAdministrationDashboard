@@ -5,7 +5,8 @@
                 "label": "Dashboard",
                 "intro": "Begrüßung ausblenden",
                 "welcome": "Checkliste ausblenden",
-                "feedback": "Feedback ausblenden"
+                "feedback": "Feedback ausblenden",
+                "statistics": "Statistik ausblenden"
             }
         }
     }

@@ -5,7 +5,8 @@
                 "label": "Dashboard",
                 "intro": "Hide greeting",
                 "welcome": "Hide checklist area",
-                "feedback": "Hide feedback area"
+                "feedback": "Hide feedback area",
+                "statistics": "Hide statistics"
             }
         }
     }
