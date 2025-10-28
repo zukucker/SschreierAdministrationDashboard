@@ -77,3 +77,7 @@ bin/console plugin:install --activate SschreierAdministrationDashboard
 ### new area "_Dashboard_" under "_Settings_" -> "_System_"> "_Users & permissions_" -> "_Roles_" in the area "_Additional permissions_" in which you can _hide_ the areas of the dashboard for the selected role
 
 ![new area Dashboard in which you can hide the areas of the dashboard for the selected role](https://www.web-solutions-dresden.de/plugins/SschreierAdministrationDashboard/SschreierAdministrationDashboard-Image5.jpg)
+
+# Big shoutout to Sschreier
+![Sschreier Github](https://github.com/sschreier)
+Please do not contact sschreier if hiding statistics causes problems. He has clearly stated that he does not want to support this feature, as Shopware will delete the whole thing.
