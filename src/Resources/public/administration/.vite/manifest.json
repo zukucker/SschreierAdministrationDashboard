@@ -1,6 +1,6 @@
 {
   "main.js": {
-    "file": "assets/sschreier-administration-dashboard-gG51j00r.js",
+    "file": "assets/sschreier-administration-dashboard-DiWbMwK7.js",
     "name": "sschreier-administration-dashboard",
     "src": "main.js",
     "isEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "module/sw-dashboard/page/sw-dashboard-index/index.js": {
-    "file": "assets/index-BGJ4JZhv.js",
+    "file": "assets/index-Ce4DsiYI.js",
     "name": "index",
     "src": "module/sw-dashboard/page/sw-dashboard-index/index.js",
     "isDynamicEntry": true,

@@ -15,6 +15,10 @@ Shopware.Service('privileges')
             feedback: {
                 privileges: ['dashboard:feedback'],
                 dependencies: []
+            },
+            statistics: {
+                privileges: ['dashboard:statistics'],
+                dependencies: []
             }
         }
     });
